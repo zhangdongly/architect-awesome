@@ -1427,7 +1427,11 @@ MyISAM 是非聚集，InnoDB 是聚集
 ### MapReduce
 * [《用通俗易懂的大白话讲解Map/Reduce原理》](https://blog.csdn.net/oppo62258801/article/details/72884633)
 * [《 简单的map-reduce的java例子》](https://blog.csdn.net/foye12/article/details/78358292)
-* [《mapreduce基础入门1》](https://www.cnblogs.com/liuwei6/p/6708116.html)
+* [《mapreduce(一)基础入门》](https://www.cnblogs.com/liuwei6/p/6708116.html)
+* [《MapReduce(二)常用三大组件 》](https://www.cnblogs.com/liuwei6/p/6709931.html)
+* [《MapReduce(三) 典型场景（一）》](https://www.cnblogs.com/liuwei6/p/6724070.html)
+* [《MapReduce(四) 典型编程场景（二） 》](https://www.cnblogs.com/liuwei6/p/6735918.html)
+* [《MapReduce(五) mapreduce的shuffle机制 与 Yarn》](https://www.cnblogs.com/liuwei6/p/6736273.html)
 
 ### Yarn
 * [《初步掌握Yarn的架构及原理》](http://www.cnblogs.com/codeOfLife/p/5492740.html)
