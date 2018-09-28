@@ -1420,12 +1420,14 @@ MyISAM 是非聚集，InnoDB 是聚集
 * [《用通俗易懂的话说下hadoop是什么,能做什么》](https://blog.csdn.net/houbin0912/article/details/72967178)
 * [《史上最详细的Hadoop环境搭建》](http://gitbook.cn/books/5954c9600326c7705af8a92a/index.html)
 
+
 ### HDFS
 * [《【Hadoop学习】HDFS基本原理》](https://segmentfault.com/a/1190000011575458)
 
 ### MapReduce
 * [《用通俗易懂的大白话讲解Map/Reduce原理》](https://blog.csdn.net/oppo62258801/article/details/72884633)
 * [《 简单的map-reduce的java例子》](https://blog.csdn.net/foye12/article/details/78358292)
+* [《mapreduce基础入门1》](https://www.cnblogs.com/liuwei6/p/6708116.html)
 
 ### Yarn
 * [《初步掌握Yarn的架构及原理》](http://www.cnblogs.com/codeOfLife/p/5492740.html)
